@@ -1,0 +1,39 @@
+{
+  "name": "com.gamebros.firebase-wrapper",
+  "version": "1.0.0",
+  "displayName": "Firebase Wrapper",
+  "description": "A modular wrapper for Firebase services (Analytics, Crashlytics, etc.) that can be used across multiple Unity games.",
+  "unity": "2021.3",
+  "keywords": [
+    "firebase",
+    "analytics",
+    "crashlytics",
+    "wrapper",
+    "unity"
+  ],
+  "author": {
+    "name": "Dhruv Bhasin",
+    "email": "bhasindhruv11797@gmail.com",
+    "url": "https://github.com/bhasindhruv117"
+  },
+  "dependencies": {
+    "com.google.firebase.analytics": "12.0.0+",
+    "com.google.firebase.crashlytics": "12.0.0+"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bhasindhruv117/FirebaseWrapper.git"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Firebase Implementation",
+      "description": "Contains a basic setup of the Firebase Wrapper",
+      "path": "Samples~/BasicSetup"
+    },
+    {
+      "displayName": "Color Blast Integration",
+      "description": "Shows how the Firebase Wrapper is used in the Color Blast game",
+      "path": "Samples~/ColorBlastIntegration"
+    }
+  ]
+}
