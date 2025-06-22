@@ -16,10 +16,6 @@
     "email": "bhasindhruv11797@gmail.com",
     "url": "https://github.com/bhasindhruv117"
   },
-  "dependencies": {
-    "com.google.firebase.analytics": "12.0.0+",
-    "com.google.firebase.crashlytics": "12.0.0+"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/bhasindhruv117/FirebaseWrapper.git"
